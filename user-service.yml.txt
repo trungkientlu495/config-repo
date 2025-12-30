@@ -1,1 +1,3 @@
-message: a
+message: "Xin chào từ Git Config Server!"
+user:
+  role: "ADMIN_USER"
